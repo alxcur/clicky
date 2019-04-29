@@ -1,0 +1,33 @@
+[
+    {
+      "id": 1,
+      "name": "Velma",
+      "image": "https://www.wbkidsgo.com/Portals/4/Content/Character/ScoobyDoo_VelmaDinkley/Thumbnails/Default/FS_Velma_6x4.png"
+    },
+    {
+      "id": 2,
+      "name": "Shaggy",
+      "image": "https://www.wbkidsgo.com/Portals/4/Content/Character/ScoobyDoo_ShaggyRogers/Thumbnails/Default/FS_Shaggy_6x4.png"
+    },
+    {
+      "id": 3,
+      "name": "Daphne",
+      "image": "https://www.wbkidsgo.com/Portals/4/Content/Character/ScoobyDoo_DaphneBlake/Thumbnails/Default/FS_Daphne_6x4.png"
+    },
+    {
+      "id": 4,
+      "name": "Fred",
+      "image": "https://www.wbkidsgo.com/Portals/4/Content/Character/ScoobyDoo_FredJones/Thumbnails/Default/FS_Fred_6x4.png"
+    },
+    {
+      "id": 5,
+      "name": "Scooby-Doo",
+      "image": "https://www.wbkidsgo.com/Portals/4/Content/Character/ScoobyDoo_Scooby-Doo/Thumbnails/Default/FS_ScoobyDoo_6x4.png"
+    },
+    {
+      "id": 6,
+      "name": "Dracula",
+      "image": "https://www.wbkidsgo.com/Portals/4/Content/Character/ScoobyDoo_Dracula/Thumbnails/Default/FS_Dracula_6x4.png"
+    }
+  ]
+  
