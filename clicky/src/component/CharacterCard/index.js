@@ -1,7 +1,6 @@
 import React from "react";
 import "./style.css";
 
-
 function CharacterCard(props) {
     return (
         <div className="CharacterCard">
@@ -15,12 +14,7 @@ function CharacterCard(props) {
           </li>
         </ul>
       </div>
-
-            {/* <span onClick={() => props.removeCharacter(props.id)} className="remove">
-                𝘅
-            </span> */}
-
-        </div>
+     </div>
     );
 }
 

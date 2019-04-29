@@ -4,15 +4,11 @@ import Wrapper from "./component/Wrapper";
 import Title from "./component/Title"
 import Characters from "./Characters.json";
 
-
 class App extends Component {
-  
-  state = {
+   state = {
     Characters
   };
 
-
-  // Map over this.state.friends and render a FriendCard component for each friend object
   render() {
     return (
       <Wrapper>
