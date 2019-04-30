@@ -1,4 +1,4 @@
-## CLICKY GAME
+## CLICKY GAME https://alxcur.github.io/clicky/
 ## HOMEWORK 19 | REACT
 
 ______
