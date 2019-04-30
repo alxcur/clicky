@@ -17,7 +17,9 @@ ______
 
 ______
 
+Was not able to get the code to work, but here is an example of what the UI would look like:
 
+![ClickUI](https://raw.githubusercontent.com/alxcur/clicky/master/Clicky2.png)
 
 
 ______
